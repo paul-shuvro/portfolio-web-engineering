@@ -2,8 +2,6 @@
 
 **Portfolio Website** for showcasing my projects, skills, and experience — built with HTML, CSS, and JavaScript.
 
-🚀 Live Demo: [Click Here](https://paul-shuvro.github.io/portfolio-web-engineering/)
-
 🧠 Built by: **Paul Shuvro**  
 📍 Tech Stack: HTML, CSS, JavaScript
 
