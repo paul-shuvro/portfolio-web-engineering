@@ -33,7 +33,6 @@ This repository contains my personal **Web Engineering portfolio site**. It’s 
 - ✅ Interactive navigation  
 - ✅ Contact / social links  
 - ✅ Clean and modern UI  
-- 🌐 Optional: GitHub Pages deployment :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -45,7 +44,7 @@ This project uses:
 |----------|--------------|
 | Frontend | HTML5, CSS3, JavaScript |
 | Tools    | VS Code, Git, GitHub |
-| Deployment | GitHub Pages / Netlify / Vercel *(if applicable)* |
+| Deployment | GitHub Pages / Netlify / Vercel *(if applicable)*|
 
 ---
 
