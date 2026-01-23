@@ -44,7 +44,7 @@ This project uses:
 |----------|--------------|
 | Frontend | HTML5, CSS3, JavaScript |
 | Tools    | VS Code, Git, GitHub |
-| Deployment | GitHub Pages / Netlify / Vercel *(if applicable)*|
+| Deployment | GitHub Pages / Netlify / Vercel |
 
 ---
 
