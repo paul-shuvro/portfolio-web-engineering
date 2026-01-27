@@ -23,7 +23,6 @@
 
 This repository contains my personal **Web Engineering portfolio site**. It’s a minimalist, responsive page that highlights who I am, my technical skills, and my key projects. This is part of my web development journey, showing off what I’ve built so far.
 
----
 
 ## 🔥 Features
 
