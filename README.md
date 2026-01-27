@@ -9,16 +9,15 @@
 
 ## 📘 Table of Contents
 
-- 🔥 About  
-- 🛠 Features  
-- 🧩 Tech Stack  
-- 🚀 Setup & Deployment  
-- 📁 Project Structure  
-- 📸 Screenshots  
-- 📬 Contact  
-- 📜 License
+- 🧠 About the Project
+- ⚙️ Features
+- 🧰 Tech Stack
+- 🚀 Setup & Deployment
+- 🗂️ Project Structure
+- 🖼️ Screenshots / Demo
+- 📫 Contact
+- 📄 License
 
----
 
 ## 💡 About
 
